@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/bg_3"
     android:padding="16dp"
-    tools:context=".LoginActivity">
+    tools:context=".RegisterActivity">
 
     <ImageView
         android:id="@+id/imageLogo"
@@ -25,13 +25,13 @@
         android:layout_marginTop="32dp"
         android:background="#CE000000"
         android:ems="10"
-        android:hapticFeedbackEnabled="true"
         android:hint="Username"
         android:inputType="text"
         android:padding="10dp"
         android:textColor="#ffffff"
         android:textColorHint="#fffff0"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.843"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageLogo" />
 
@@ -39,10 +39,9 @@
         android:id="@+id/etPassword"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="16dp"
         android:background="#CE000000"
         android:ems="10"
-        android:hapticFeedbackEnabled="true"
         android:hint="Password"
         android:inputType="textPassword"
         android:padding="10dp"
@@ -53,32 +52,18 @@
         app:layout_constraintTop_toBottomOf="@+id/etUsername" />
 
     <Button
-        android:id="@+id/btnLogin"
-        android:layout_width="170dp"
-        android:layout_height="46dp"
+        android:id="@+id/btnRegister"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
         android:background="#CE000000"
-        android:text="Login"
+        android:text="Register"
         android:textColor="#ffffff"
         android:textSize="16sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etPassword" />
 
-    <Button
-        android:id="@+id/btnRegister"
-        android:layout_width="170dp"
-        android:layout_height="46dp"
-        android:layout_marginTop="24dp"
-        android:background="#CE000000"
-        android:text="Sign UP"
-        android:textColor="#ffffff"
-        android:textSize="16sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.984"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etPassword"
-        app:layout_constraintVertical_bias="0.0" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

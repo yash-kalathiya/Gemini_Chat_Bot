@@ -23,18 +23,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // Check if the user is logged in
-        SharedPreferences sharedPreferences = getSharedPreferences("loginPrefs", MODE_PRIVATE);
-        boolean isLoggedIn = sharedPreferences.getBoolean("isLoggedIn", false);
-
-        if (!isLoggedIn) {
-            // User is not logged in, redirect to LoginActivity
-            Intent intent = new Intent(MainActivity.this, LoginActivity.class);
-            startActivity(intent);
-            finish(); // Close MainActivity to prevent going back
-            return;
-        }
-
         setContentView(R.layout.activity_main);
 
         tv1 = findViewById(R.id.tv1);
@@ -81,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
                     scrollView.post(new Runnable() {
                         @Override
                         public void run() {
+
                             scrollView.fullScroll(View.FOCUS_DOWN);
                         }
                     });

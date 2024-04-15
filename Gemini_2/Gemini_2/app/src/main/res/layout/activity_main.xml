@@ -4,19 +4,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg"
+    android:background="@drawable/bg_2"
     android:orientation="vertical"
     tools:context=".MainActivity">
 
     <!-- ScrollView should be constrained to the top of the parent and to the top of EditText -->
+
+    <!-- EditText should be constrained to the bottom of the parent -->
+
     <ScrollView
         android:id="@+id/scrollView2"
-        android:layout_width="0dp"
-        android:layout_height="0dp"
+        android:layout_width="365dp"
+        android:layout_height="604dp"
         app:layout_constraintBottom_toTopOf="@+id/et1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.476">
 
         <TextView
             android:id="@+id/tv1"
@@ -28,8 +32,6 @@
             android:textColorHint="#ffffff"
             android:textSize="20dp" />
     </ScrollView>
-
-    <!-- EditText should be constrained to the bottom of the parent -->
 
     <EditText
         android:id="@+id/et1"
@@ -45,7 +47,9 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.959" />
 
     <Button
         android:id="@+id/bt1"
@@ -53,10 +57,13 @@
         android:layout_height="44dp"
         android:layout_marginEnd="24dp"
         android:background="#D755C4EF"
-        android:text="Sent"
+        android:text="Ask"
         android:textSize="12dp"
         app:layout_constraintBottom_toBottomOf="@+id/et1"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/et1" />
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/et1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.998" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
