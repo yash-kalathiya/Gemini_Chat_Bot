@@ -4,7 +4,65 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd78cd3d-f498-4810-9750-13c8242285a8" name="Changes" comment="" />
+    <list default="true" id="dd78cd3d-f498-4810-9750-13c8242285a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/.idea/Gemini_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/androidTest/java/com/example/gemini_2/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/java/com/example/gemini_2/Brain_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/java/com/example/gemini_2/DatabaseHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/java/com/example/gemini_2/LoginActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/java/com/example/gemini_2/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/java/com/example/gemini_2/RegisterActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/java/com/example/gemini_2/response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/drawable/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/drawable/bg_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/drawable/bg_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/drawable/logo_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/layout/activity_login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-anydpi/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/app/src/test/java/com/example/gemini_2/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gemini_2/Gemini_2/settings.gradle.kts" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +83,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "D:/Gemini_Chat_Bot/Gemini_2/Gemini_2",
+    "last_opened_file_path": "D:/Gemini_Chat_Bot/J.A.R.V.I.S",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>

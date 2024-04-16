@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void typeText(String response, String Query) {
         tv1.append("User : "+Query);
-        tv1.append("\n\nGemini : ");
+        tv1.append("\n\nJarvis : ");
         for (int i = 0; i < response.length(); i++) {
             final int index = i;
             final Handler handler = new Handler(getMainLooper());

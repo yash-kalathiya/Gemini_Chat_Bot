@@ -27,7 +27,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="#CE000000"
-            android:hint="Gemini Says...."
+            android:hint="Jarvis Says...."
             android:textColor="#ffffff"
             android:textColorHint="#ffffff"
             android:textSize="20dp" />
